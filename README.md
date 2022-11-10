@@ -4,7 +4,7 @@ Hi 👋 My name is Alcides
 Java Web Developer
 ------------------
 
-I am a Java Web Developer of technological solutions that meets the ICT requirements and needs of the organizations. During the last years I have been developing software for various public entities and private companies. I gained significant experience working as a web developer implementing modern and high-performance technologies, which are still in use today. I am currently focused on improving and perfecting my skills in Angular and Node.js Front-End technologies.
+I am a Java Web Developer of technological solutions that meets the ICT requirements and needs of the organizations. During the last years I have been developing software for various public entities and private companies. I gained significant experience working as a web developer implementing modern and high-performance technologies, which are still in use today. I am currently focused on improving and perfecting my skills in Angular and Node.js technologies.
 
 * 🌍  I'm based in Asunción, Paraguay
 * ✉️  You can contact me at [alcides.abel.benitez@gmail.com](mailto:alcides.abel.benitez@gmail.com)
